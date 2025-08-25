@@ -1,0 +1,10 @@
+1. Hashing in Python is a fundamental concept used for data storage, retrieval, and security. It involves mapping data of arbitrary size to fixed-size values (hash codes) using a hash function.
+
+2. This process allows for efficient data retrieval and is commonly used in data structures like dictionaries and hash tables.
+Components of Hashing in Python: 
+# Key
+# Key refers to the input data that is processed by a hash function to generate a hash code or hash value. The key can be any piece of data, such as a string, number, file, or even a complex data structure, that you want to transform into a fixed-size string of characters using the hash function.
+# Hash Function
+# A hash function is a mathematical function that takes an input (or 'message') and returns a fixed-size string of characters, which is typically a hexadecimal number. The output, often called the 'hash value' or 'hash code,' is unique to the input data.
+# Hash Table
+# A hash table, also known as a hash map, is a data structure used in computer science to efficiently store and retrieve data. It is designed to provide fast access to data items, making it an essential tool for a wide range of applications, from databases and caching systems to symbol tables and more.
